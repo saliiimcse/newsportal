@@ -1,0 +1,11 @@
+bonus mark
+1. add sppiner
+2. total news count
+3. es6 forEach, async, .catch
+4. when click blog -->
+var, let, const differents
+map, forech, find, filter
+templet, string when use
+responsive
+10 commit
+news sort kora, array sort
